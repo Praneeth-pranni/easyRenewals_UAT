@@ -10,7 +10,7 @@ from flask_cors import CORS, cross_origin
 import glob
 import os
 import jwt
-#from userfunctions import toSendEmail, RandomStringwithDigitsAndSymbols,checkToken
+from userfunctions import toSendEmail, RandomStringwithDigitsAndSymbols,checkToken
 from functools import wraps
 from encryption import DataEncryption
 from openpyxl import *
@@ -2058,7 +2058,7 @@ def FinanceCallTeamPolicyaAssignment():
 if __name__ == '__main__':
     app.secret_key = 'random string'
     app.debug = True
-    app.run(host='172.21.32.146', port=5001)
+    app.run(host='172.21.32.34', port=5001)
 
 
 

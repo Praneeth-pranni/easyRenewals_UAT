@@ -1,0 +1,10 @@
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-430-816
+ * Running on http://172.21.32.34:5001/ (Press CTRL+C to quit)
+ * Detected change in 'c:\\easyRenewals\\easyRenewals_UAT\\icblusermanagement.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 120-430-816
+ * Running on http://172.21.32.34:5001/ (Press CTRL+C to quit)
